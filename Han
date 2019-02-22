@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1, Disney xd
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+#EXTINF:-1,LAT  |  UNIVISION EAST...
+http://p5.giffy.be:8080/live/cecilia/cecilia/31155.m3u8
+#EXTINF:-1,UNIVISION EAST (OP2)
+http://p5.giffy.be:8080/live/cecilia/cecilia/32306.m3u8
+#EXTINF:-1,LAT  |  UNIVISION WEST...
+http://p5.giffy.be:8080/live/cecilia/cecilia/31154.m3u8
+#EXTINF:-1,LAT  |  TELEMUNDO EAST...
+http://p5.giffy.be:8080/live/cecilia/cecilia/31151.m3u8
+#EXTINF:-1,TELEMUNDO EAST (OP2)
+http://p5.giffy.be:8080/live/cecilia/cecilia/32307.m3u8
+#EXTINF:-1,LAT  |  TELEMUNDO WEST...
+http://p5.giffy.be:8080/live/cecilia/cecilia/31868.m3u8
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://p5.giffy.be:8080/live/cecilia/cecilia/32303.m3u8
+#EXTINF:-1,LAT  |  TELENOVELAS
+http://p5.giffy.be:8080/live/cecilia/cecilia/35229.m3u8
+#EXTINF:-1,TELENOVELAS (OP2)
+http://p5.giffy.be:8080/live/cecilia/cecilia/32299.m3u8
+#EXTINF:-1,LAT  |  PASIONES...
+http://p5.giffy.be:8080/live/cecilia/cecilia/35232.m3u8
+#EXTINF:-1,PASIONES (OP2)
+http://p5.giffy.be:8080/live/cecilia/cecilia/80374.m3u8
+#EXTINF:-1,LAT  |  GALAVISION...
+http://p5.giffy.be:8080/live/cecilia/cecilia/31153.m3u8
+#EXTINF:-1,LAT  |  CNN ESPANOL...
+http://p5.giffy.be:8080/live/cecilia/cecilia/31864.m3u8
+#EXTINF:-1,LAT  |  UNIMAS...
+http://p5.giffy.be:8080/live/cecilia/cecilia/31150.m3u8
+#EXTINF:-1,LAT  |  HOLA TV...
+http://p5.giffy.be:8080/live/cecilia/cecilia/31860.m3u8
+#EXTINF:-1,LAT  |  TV CHILE
+http://p5.giffy.be:8080/live/cecilia/cecilia/35350.m3u8
+#EXTINF:-1,LAT  |  CANAL DE LAS ESTRELLAS...
+http://p5.giffy.be:8080/live/cecilia/cecilia/35226.m3u8
+#EXTINF:-1,LAT  |  NTN 24...
+http://p5.giffy.be:8080/live/cecilia/cecilia/35349.m3u8
+#EXTINF:-1,LAT  |  MEGA TV HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/31870.m3u8
+#EXTINF:-1,LAT  |  TV ESPANA
+http://p5.giffy.be:8080/live/cecilia/cecilia/46953.m3u8
+#EXTINF:-1,DP | BEIN SPORTS N ( BACKUP )
+http://p5.giffy.be:8080/live/cecilia/cecilia/90279.m3u8
+#EXTINF:-1,DP | BEIN SPORTS N.
+http://p5.giffy.be:8080/live/cecilia/cecilia/81404.m3u8
+#EXTINF:-1,DP | BEIN SPORTS SPAIN.
+http://p5.giffy.be:8080/live/cecilia/cecilia/81405.m3u8
+#EXTINF:-1,DP | GOL ESPANA
+http://p5.giffy.be:8080/live/cecilia/cecilia/32295.m3u8
+#EXTINF:-1,DP | GOL PERU
+http://p5.giffy.be:8080/live/cecilia/cecilia/53619.m3u8
+#EXTINF:-1,DP | GOL TV ECUADOR
+http://p5.giffy.be:8080/live/cecilia/cecilia/70146.m3u8
+#EXTINF:-1,DP | GOL TV ESP
+http://p5.giffy.be:8080/live/cecilia/cecilia/61977.m3u8
+#EXTINF:-1,DP | FOX DEPORTES
+http://p5.giffy.be:8080/live/cecilia/cecilia/42210.m3u8
+#EXTINF:-1,DP | TYC SPORTS INT...
+http://p5.giffy.be:8080/live/cecilia/cecilia/35221.m3u8
+#EXTINF:-1,DP | UFC NETWORK
+http://p5.giffy.be:8080/live/cecilia/cecilia/35179.m3u8
+#EXTINF:-1,LAT  |  VENEVISION
+http://p5.giffy.be:8080/live/cecilia/cecilia/46960.m3u8
+#EXTINF:-1,LAT  |  VIENDO MOVIES...
+http://p5.giffy.be:8080/live/cecilia/cecilia/35230.m3u8
+#EXTINF:-1,LAT  |  VME
+http://p5.giffy.be:8080/live/cecilia/cecilia/31858.m3u8
+#EXTINF:-1,LAT | HBO
+http://p5.giffy.be:8080/live/cecilia/cecilia/32305.m3u8
+#EXTINF:-1,LAT | HBO 2
+http://p5.giffy.be:8080/live/cecilia/cecilia/35164.m3u8
+#EXTINF:-1,LAT | HISTORY HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/35171.m3u8
+#EXTINF:-1,LAT | ID*
+http://p5.giffy.be:8080/live/cecilia/cecilia/35133.m3u8
+#EXTINF:-1,LAT | MTV HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/35172.m3u8
+#EXTINF:-1,LAT | MUSICA FOLKLORE
+http://p5.giffy.be:8080/live/cecilia/cecilia/90278.m3u8
+#EXTINF:-1,LAT | NAT GEO KIDS
+http://p5.giffy.be:8080/live/cecilia/cecilia/35173.m3u8
+#EXTINF:-1,LAT | NAT GEO WILD
+http://p5.giffy.be:8080/live/cecilia/cecilia/35174.m3u8
+#EXTINF:-1,LAT | NICK JR
+http://p5.giffy.be:8080/live/cecilia/cecilia/35167.m3u8
+#EXTINF:-1,LAT | NOTICIAS NTN24
+http://p5.giffy.be:8080/live/cecilia/cecilia/32300.m3u8
+#EXTINF:-1,LAT | RCN NOTICIA
+http://p5.giffy.be:8080/live/cecilia/cecilia/35222.m3u8
+#EXTINF:-1,LAT | RT NOTICIAS
+http://p5.giffy.be:8080/live/cecilia/cecilia/32297.m3u8
+#EXTINF:-1,LAT | SYFY
+http://p5.giffy.be:8080/live/cecilia/cecilia/64414.m3u8
+#EXTINF:-1,LAT | TELECINCO
+http://p5.giffy.be:8080/live/cecilia/cecilia/32296.m3u8
+#EXTINF:-1,LAT | TLC.
+http://p5.giffy.be:8080/live/cecilia/cecilia/61725.m3u8
+#EXTINF:-1,LAT | TNT
+http://p5.giffy.be:8080/live/cecilia/cecilia/64411.m3u8
+#EXTINF:-1,LAT | TNT SERIES HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/32298.m3u8
+#EXTINF:-1,LAT | TOONCAST
+http://p5.giffy.be:8080/live/cecilia/cecilia/35178.m3u8
+#EXTINF:-1,LAT | WAPA TV
+http://p5.giffy.be:8080/live/cecilia/cecilia/92074.m3u8
+#EXTINF:-1,LAT | WARNER CHANNEL HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/32301.m3u8
+#EXTINF:-1,LAT. | DISCOVERY KIDS
+http://p5.giffy.be:8080/live/cecilia/cecilia/60767.m3u8
+#EXTINF:-1,Latino | Azteca 7
+http://p5.giffy.be:8080/live/cecilia/cecilia/92458.m3u8
+#EXTINF:-1,Latino | Bein ?
+http://p5.giffy.be:8080/live/cecilia/cecilia/92456.m3u8
+#EXTINF:-1,Latino | Bein La Liga
+http://p5.giffy.be:8080/live/cecilia/cecilia/92457.m3u8
+#EXTINF:-1,Latino | Canal 5
+http://p5.giffy.be:8080/live/cecilia/cecilia/92455.m3u8
+#EXTINF:-1,CRICKET | WILLOW HD
+http://p5.giffy.be:8080/live/cecilia/cecilia/92666.m3u8
